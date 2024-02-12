@@ -1,0 +1,25 @@
+*{
+    font-weight: bold;
+    text-align: center;
+}
+.table{
+    width: 100%;
+    height: 300px;
+    border-spacing: 0px;
+    border: 2px solid black;
+    text-align:center;
+}
+.table th{
+    font-size: 20px;
+    color: white;
+    background-color: salmon;
+    padding: 30px;}
+
+.alice,.troy,.john{
+    background-color:bisque;
+}
+
+.email{
+    color: blue;
+}
+
